@@ -9,7 +9,13 @@ climbing and mountaineering mountain guide
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+  
   <title>Altitude Sauvage - Haute Montagne</title>
+  
+  
+  
   <link href="https://cdn.jsdelivr.net/npm/tailwindcss@3.3.2/dist/tailwind.min.css" rel="stylesheet">
 </head>
 <body class="bg-gray-100 text-gray-800">
@@ -17,13 +23,21 @@ climbing and mountaineering mountain guide
     <img src="images/montagne-header.jpg" alt="Panorama de haute montagne" class="w-full h-[70vh] object-cover brightness-75">
     <div class="absolute inset-0 flex flex-col items-center justify-center text-white text-center">
       <h1 class="text-5xl font-bold drop-shadow-lg">Altitude Sauvage</h1>
-      <p class="text-xl mt-4">Explorez la haute montagne autrement</p>
+      <p class="text-xl mt-4">
+        
+        
+        
+        Explorez la haute montagne autrement</p>
     </div>
   </header>
+
+
+  
 
   <section class="max-w-5xl mx-auto py-12 px-4">
     <h2 class="text-3xl font-bold mb-6 text-center">L’esprit des sommets</h2>
     <p class="text-lg text-gray-700 mb-8 text-center">
+      
       Découvrez les plus belles ascensions, les conseils d’alpinistes et les itinéraires pour vivre la montagne dans toute sa grandeur.
     </p>
 
